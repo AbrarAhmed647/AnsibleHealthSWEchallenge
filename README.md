@@ -19,8 +19,8 @@ This repository contains a Google Colab notebook that:
 
 1. **Clone the Repository**  
    ```bash
-   git clone <YOUR_REPO_LINK>
-   cd <YOUR_REPO_NAME>
+   git clone https://github.com/AbrarAhmed647/AnsibleHealthSWEchallenge.git
+   cd <REPO_NAME>
 2. Run the .ipynb using Jupyter notebook or upload it to Google colab
 3. Authorize the code to connect to Google services
 
