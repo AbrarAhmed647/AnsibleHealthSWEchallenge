@@ -21,6 +21,8 @@ This repository contains a Google Colab notebook that:
    ```bash
    git clone https://github.com/AbrarAhmed647/AnsibleHealthSWEchallenge.git
    cd <REPO_NAME>
-2. Run the .ipynb using Jupyter notebook or upload it to Google colab
-3. Authorize the code to connect to Google services
+2. Run the .ipynb file using Jupyter notebook on local or upload it to Google colab
+3. On Google colab- connect to any instance of your choice and run the cell.
+4. Authorize the code to connect to Google services by cheking out access to Gdrive and all permissions
+5. Voila, the code should produce the required output of a google docs link.
 
